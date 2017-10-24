@@ -1,2 +1,3 @@
 # Google-Search-Ranker
-Quickly see how your domain is ranks when compared to its competitors on Google. 
+Compare your domain ranking to that your competitors for key terms on Google. 
+- Useful for SEO and content strategy 
